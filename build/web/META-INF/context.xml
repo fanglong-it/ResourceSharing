@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/CompanyResuorce">
+  <Resource auth="Container" driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver" 
+            name="Fanglong" password="Cunplong115" type="javax.sql.DataSource" 
+            url="jdbc:sqlserver://database1.czcrwjekdx20.us-east-2.rds.amazonaws.com:1433;databaseName=Database1;instanceName=database1.czcrwjekdx20.us-east-2.rds.amazonaws.com" 
+            username="sa"/>
+</Context>
